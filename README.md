@@ -143,7 +143,7 @@ push yet.
 
 _(practice: 45 min)_
 
-As Ensemble, discuss the recent architectural change that the team had to apply, that wasn't large-scale
+As Ensemble, discuss the recent architectural change that the team had to apply, that was large-scale
 and wasn't completed with an evolutionary approach.
 
 Together, try to mentally return back to the beginning of that initiative and plan it anew with the
